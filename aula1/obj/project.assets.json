@@ -1153,11 +1153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\aula1.csproj",
+      "projectUniqueName": "C:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\aula1.csproj",
       "projectName": "aula1",
-      "projectPath": "C:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\aula1.csproj",
+      "projectPath": "C:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\aula1.csproj",
       "packagesPath": "C:\\Users\\MAON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\obj\\",
+      "outputPath": "C:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

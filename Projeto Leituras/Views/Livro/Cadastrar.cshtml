@@ -1,0 +1,25 @@
+@model Projeto_Leituras.Models.Livro    
+@{
+   Layout = "_Layout"; 
+}
+<div class= "container">
+<h2><strong>Novo Livro</strong></h2>
+
+     <form class="form-horizontal" asp-controller="Livro" asp-action="Salvar" method="POST">
+        <input type="hidden" asp-for="Id">
+        <input type="text" class="form-control" asp-for="Título" placeholder="Título do Livro"><br>
+        <input type="text" class="form-control" asp-for="Autor" placeholder="Autor do Livro"><br>
+        <input type="number" class="form-control" asp-for="Estrelas" placeholder="Classificação em Estrelas"><br>
+        <button class="btn btn-info">Salvar</button>
+        </form>  
+        </div> 
+   
+     
+    
+   
+        
+        
+        
+       
+  
+

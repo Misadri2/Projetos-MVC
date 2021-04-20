@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\aula1.csproj",
+  "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\aula1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,53 +14402,53 @@
   "RootNamespace": "aula1",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Admin\\visualizar.cshtml",
+      "TargetPath": "Views\\Admin\\visualizar.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Funcionarios\\Cadastrar.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Funcionarios\\Cadastrar.cshtml",
       "TargetPath": "Views\\Funcionarios\\Cadastrar.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Funcionarios\\Index.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Funcionarios\\Index.cshtml",
       "TargetPath": "Views\\Funcionarios\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC Projetos\\aula1\\Views\\Admin\\visualizar.cshtml",
-      "TargetPath": "Views\\Admin\\visualizar.cshtml",
+      "FilePath": "c:\\Users\\MAON\\Projetos\\Estudo MVC\\aula1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

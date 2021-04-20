@@ -1,0 +1,15 @@
+@model IEnumerable<Projeto_Leituras.Models.Livro>  // método para fazer aparecer a lista na view
+
+<div class= "container">
+<h2><strong>Todos os livros</strong></h2>
+
+    @foreach(var livro in Model)         //injeção de dependência para Banco de dados
+{
+    <p> Título: @livro.Título</p>
+    <p> Autor:  @livro.Autor</p>
+    <p>Quantas Estrelas: @livro.Estrelas</p>
+    <a href="/Livro/Editar/@livro.Id" class="btn btn-success">Editar</a>   //está pegando o Id de livro lá de controller
+    <a href="/Livro/Deletar/@livro.Id" class="btn btn-warning">Deletar</a>
+    <hr>
+}
+</div>
