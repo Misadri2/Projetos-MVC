@@ -1,11 +1,12 @@
-using System;
 using System.Linq;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Projeto_Leituras.Data;
 using Projeto_Leituras.Models;
 
 namespace Projeto_Leituras.Controllers
 {
+    [Authorize]                                //!Para que apenas logados acessem a página
     public class LivroController : Controller  //!Importante nome do controller(Livro) ser o mesmo da pasta em Views(Livro)
     {
         private readonly ApplicationDbContext database;         //injeção de dependência para Banco de dados
